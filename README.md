@@ -1,68 +1,57 @@
 # Hi, I'm Nhut 👋
 
-Software Engineering student with a strong interest in backend development, web applications, and software architecture.
+Software Engineering Student | Aspiring Full-Stack Developer
 
-I enjoy building practical applications, learning modern technologies, and improving my problem-solving skills through real-world projects.
+Passionate about building reliable software, learning modern technologies, and continuously improving through hands-on projects and real-world problem solving.
 
 ## About Me
 
-* 🎓 Software Engineering Student
-* 💻 Interested in Backend Development & Full Stack Engineering
-* 🌱 Currently learning System Design, Cloud Computing, and Software Architecture
-* 🔍 Looking for Internship / Fresher Software Engineer opportunities
-* 🇻🇳 Ho Chi Minh City, Vietnam
+* 🎓 Software Engineering student based in Vietnam
+* 💻 Interested in Web Development, Backend Engineering, and Software Architecture
+* 🚀 Focused on building practical applications with clean and maintainable code
+* 🌱 Continuously learning new technologies and development best practices
+* 🎯 Seeking opportunities to grow as a Software Engineer and contribute to impactful products
 
-## Technical Skills
+## Core Technologies
 
 **Languages:** JavaScript, TypeScript, Java, C#
 
-**Frontend:** React, Next.js, Vue.js, HTML5, CSS3, Tailwind CSS
+**Frontend:** React, Vue.js, Next.js, HTML5, CSS3, Tailwind CSS
 
-**Backend:** Java, Node.js, Express.js, Next.js, RESTful API
+**Backend:** Java Spring Boot, Node.js, Express.js, RESTful APIs
 
 **Database:** PostgreSQL, MySQL, SQL Server, MongoDB
 
-**Tools:** Git, GitHub, Docker, Postman, VS Code, DBeaver, WSL Remote
-
+**Tools:** Git, GitHub, Docker, Postman, DBeaver, VSCode
 
 ## Featured Projects
 
-### Book Management System
+### Book Management Platform
 
-A full-stack web application supporting books management, user authentication, shopping cart functionality, and order processing.
-
-**Tech Stack:** Vue.js, Node.js, Express, MySQL
+A full-stack web application that supports book management, authentication, shopping cart functionality, and order processing.
 
 ### Task Management System
 
-A collaborative task management application with role-based access control and real-time task tracking.
+A collaborative task management application focused on productivity, role management, and efficient workflow organization.
 
-**Tech Stack:** Java Spring Boot, Node.js, Vue.js, MySQL
+### Personal Portfolio
 
-### Portfolio Website
+A modern portfolio website showcasing projects, technical skills, and continuous learning progress.
 
-A personal portfolio website showcasing projects, technical skills, and professional experience.
+## Currently Learning
 
-**Tech Stack:** Next.js, Tailwind CSS
-
-## What I'm Currently Learning
-
-* Software Architecture Patterns
-* Cloud Fundamentals
+* Software Architecture & Design Patterns
+* System Design Fundamentals
 * Docker & Containerization
-* Design Patterns
-* Clean Code Principles
-
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nhutit05\&show_icons=true\&hide_border=true)
+* Cloud Computing Fundamentals
+* Clean Code & Best Practices
 
 ## Contact
 
-* Email: nhut.vlg2005@gmail.com
-* LinkedIn: sẽ update sau
-* Portfolio: sẽ update sau
+* 📧 Email: [nhut.vlg2005@gmail.com](mailto:nhut.vlg2005@gmail.com)
+* 💼 LinkedIn: your-linkedin-profile
+* 🌐 Portfolio: your-portfolio-website
 
 ---
 
-I believe software development is not only about writing code but also about creating maintainable, scalable, and valuable solutions for users.
+*"Great software is built through continuous learning, thoughtful design, and attention to detail."*
