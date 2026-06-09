@@ -14,42 +14,16 @@ I enjoy building practical applications, learning modern technologies, and impro
 
 ## Technical Skills
 
-### Programming Languages
+**Languages:** JavaScript, TypeScript, Java, C#
 
-* JavaScript
-* TypeScript
-* Java
-* C#
+**Frontend:** React, Next.js, Vue.js, HTML5, CSS3, Tailwind CSS
 
-### Frontend
+**Backend:** Java, Node.js, Express.js, Next.js, RESTful API
 
-* React
-* Next.js
-* HTML5
-* CSS3
-* Tailwind CSS
+**Database:** PostgreSQL, MySQL, SQL Server, MongoDB
 
-### Backend
+**Tools:** Git, GitHub, Docker, Postman, VS Code, DBeaver, WSL Remote
 
-* Node.js
-* Express.js
-* RESTful APIs
-
-### Database
-
-* MySQL
-* SQL Server
-* MongoDB
-* PostgreSQL
-
-### Tools & Technologies
-
-* Git
-* GitHub
-* Docker
-* DBeaver
-* Postman
-* VS Code
 
 ## Featured Projects
 
