@@ -101,3 +101,5 @@
 ## 📫 Connect With Me
 
 - 📧 Email: **nhut.vlg2005@gmail.com**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/> LinkedIn: **https://linkedin.com/in/nhutvm290**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/> GitHub: **https://github.com/nhutit05**
